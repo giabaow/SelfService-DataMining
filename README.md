@@ -1,1 +1,1 @@
-**# Self-Service Data Mining**
+# Self-Service Data Mining
